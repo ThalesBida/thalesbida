@@ -1,5 +1,6 @@
 ## Olá! Seja bem-vindo 😄
 
-- Estudante Engenharia de Software
+- 📚 Estudante de Engenharia de Software
+- 🐍 Estudando Python
 - 📫 Email: thalescarneirocosta@gmail.com
 
